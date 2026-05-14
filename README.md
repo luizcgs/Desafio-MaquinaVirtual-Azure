@@ -4,7 +4,7 @@ Desafio DIO sobre máquina virtual Azure.
 
 1. Acessar o portal Azure
 2. No menu, selecionar a opção Máquinas virtuais
-3. Cricar em Criar
+3. Clicar em Criar
 4. Opção Máquina virtual
 5. Colocar os detalhes da instância (Nome, Região, Disponibilidade, Segurança, imagem, etc)
 6. Avançar para guia Discos e selecionar Tamanho, tipo, volume
